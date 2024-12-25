@@ -88,5 +88,3 @@ These insights can help banks tailor their marketing campaigns and improve custo
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to submit an issue or a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
