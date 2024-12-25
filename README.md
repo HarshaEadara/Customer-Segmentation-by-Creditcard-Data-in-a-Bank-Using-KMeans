@@ -9,7 +9,6 @@ This repository provides a detailed implementation of customer segmentation usin
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 Customer segmentation is a key process in marketing and customer relationship management, allowing businesses to identify distinct groups of customers and tailor their strategies accordingly. This project utilizes the K-Means clustering algorithm to segment customers based on their credit card usage data.
