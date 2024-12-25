@@ -1,4 +1,4 @@
-# Customer-Segmentation-by-Creditcard-Data-in-a-Bank-Using-KMeans
+# Customer Segmentation by Creditcard Data in a Bank Using KMeans
 This repository provides a detailed implementation of customer segmentation using credit card data from a bank, utilizing the K-Means clustering algorithm. The project covers every stage of the analysis process, from data preprocessing to clustering and visualization. It demonstrates how to clean and normalize data, identify key patterns through exploratory analysis, and cluster customer groups effectively. By leveraging K-Means, the notebook showcases how to derive actionable insights for enhan...
 
 ## Table of Contents
